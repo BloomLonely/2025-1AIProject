@@ -1,0 +1,10 @@
+{
+    "embedding_dim": 1024,
+    "projection_dim": 128,
+    "n_clusters": 10,
+    "batch_size": 64,
+    "epochs": 10,
+    "learning_rate": 3e-5,
+    "temperature": 0.5
+  }
+  
